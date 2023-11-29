@@ -21,7 +21,7 @@ The Sequential Sequence test case uses a sequence of 0 to 31 (2n) that is repeat
 
 ![image](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/assets/107678700/28817d37-a416-486b-9558-7dd915d22e0b)
 
-The Random Sequence test case uses a sequence totaling 64 blocks (4n) that are ordered randomly, which results in random replacements and therefore random average and total access times from the random misses.
+The Random Sequence test case uses a sequence totaling 64 blocks (4n) that are ordered randomly, which results in essentially no replacement patterns and therefore random average and total access times from the random misses.
 
 **Mid-Repeat Blocks**
 
