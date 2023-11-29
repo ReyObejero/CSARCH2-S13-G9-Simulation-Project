@@ -6,7 +6,7 @@ This project is intended to simulate Block Set Associative (BSA) Cache Mapping w
  - User-specified number of memory blocks
 
 # How to Use
-For instructions on how to setup and run the source code, please refer to the [Installation-Guide.pdf](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/blob/main/Installation-Guide.pdf) file included in the repository. A video walkthrough of the cache simulation system can be viewed [here](https://www.youtube.com/watch?v=e3X7u3RuH8s).
+For instructions on how to setup and run the source code, please refer to the [Installation Guide](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/blob/main/Installation-Guide.pdf) file included in the repository. A video Walkthrough of the cache simulation system can be viewed [here](https://www.youtube.com/watch?v=e3X7u3RuH8s).
 
 # Test Case Analysis
 **Sequential Sequence**
