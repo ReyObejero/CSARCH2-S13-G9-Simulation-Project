@@ -4,8 +4,7 @@ This project is intended to simulate 8-Way Block Set Associative (BSA) Cache Map
  - 32 words per cache line
  - Load-through read policy
  - User-specified number of memory blocks
-
-The 8-Way BSA equally divides these 16 cache blocks into sets that are each 8 blocks in size, thus resulting in the 2 sets used by the system.
+ The 8-Way BSA equally divides these 16 cache blocks into sets that are each 8 blocks in size, thus resulting in the 2 sets used by the system.
 
 # How to Use
 For instructions on how to setup and run the source code, please refer to the [Installation Guide](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/blob/main/Installation-Guide.pdf) file included in the repository. A video Walkthrough of the cache simulation system can be viewed [here](https://www.youtube.com/watch?v=e3X7u3RuH8s).
