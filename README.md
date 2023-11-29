@@ -27,3 +27,5 @@ The Random Sequence test case uses a sequence totaling 64 blocks (4n) that are o
 **Mid-Repeat Blocks**
 
 ![image](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/assets/107678700/7a97aaeb-c91f-40c3-a88a-24de150c8f71)
+
+This test case is repeated four times. For the first run through, the cache system fills up blocks one through seven of both sets and the eighth block of the for the middle sequences because 0 to 14 are all misses first then they are all hits. Then, the system again goes through blocks one through eight for the hits from 0 to 15 and then repeatedly replaces the eighth block because of MRU until the next hit in the next run through. This test case has a similar pattern to the Sequential Sequence test case in the sense that for every run through, the block at which the system stays for a period before eventually reaching the final blocks becomes lesser. For the second, it stays at block seven, then at the third it stays at block six.
