@@ -10,7 +10,7 @@ This project is intended to simulate 8-Way Block Set Associative (BSA) Cache Map
 For instructions on how to setup and run the source code, please refer to the [Installation Guide](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/blob/main/Installation-Guide.pdf) file included in the repository. A video Walkthrough of the cache simulation system can be viewed [here](https://www.youtube.com/watch?v=e3X7u3RuH8s).
 
 # Test Case Analysis
-These test cases use an input _n_ of 16 cache blocks--the number of cache blocks stated in the project specifications.
+These test cases use an input of _n_ cache blocks, which is 16 as stated in the project specifications.
 
 **Sequential Sequence**
 
