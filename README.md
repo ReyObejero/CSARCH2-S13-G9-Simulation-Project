@@ -16,7 +16,7 @@ These test cases use an input of _n_, which is the number of cache blocks stated
 
 ![image](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/assets/107678700/cd399bb2-e1e3-47d7-9879-1b2b50acfdc6)
 
-The Sequential Sequence test case uses a sequence of 0 to 31 (2n) that is repeated four times. 
+The Sequential Sequence test case uses a sequence of 0 to 31 (2n) that is repeated four times. For the first repeat, 
 
 **Random Sequence**
 
