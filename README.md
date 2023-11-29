@@ -1,6 +1,7 @@
 # Project Specifications
 This project is intended to simulate 8-Way Block Set Associative (BSA) Cache Mapping with the Most Recently Used (MRU) replacement policy. The project was programmed in Java, with the JavaFX library used for developing the graphical user interface (GUI). The cache simulation system follows these specifications:
- - 16 cache blocks. The 8-Way BSA divides these 16 cache blocks into sets that contain eight blocks each, resulting in the 2 sets as shown in the video Walkthrough linked below.
+ - 16 cache blocks.
+  - The 8-Way BSA divides these 16 cache blocks into sets that contain eight blocks each, resulting in the 2 sets as shown in the video Walkthrough linked below.
  - 32 words per cache line
  - Load-through read policy
  - User-specified number of memory blocks
