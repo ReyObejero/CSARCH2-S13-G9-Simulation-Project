@@ -10,10 +10,13 @@ For instructions on how to setup and run the source code, please refer to the [I
 
 # Test Case Analysis
 **Sequential Sequence**
+
 ![image](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/assets/107678700/cd399bb2-e1e3-47d7-9879-1b2b50acfdc6)
 
 **Random Sequence**
+
 ![image](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/assets/107678700/28817d37-a416-486b-9558-7dd915d22e0b)
 
 **Mid-Repeat Blocks**
+
 ![image](https://github.com/ReyObejero/CSARCH2-S13-G9-Simulation-Project/assets/107678700/7a97aaeb-c91f-40c3-a88a-24de150c8f71)
