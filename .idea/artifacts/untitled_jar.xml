@@ -5,7 +5,6 @@
       <element id="archive" name="untitled.jar">
         <element id="module-output" name="untitled" />
       </element>
-      <element id="library" level="project" name="lib" />
     </root>
   </artifact>
 </component>

@@ -82,9 +82,9 @@ public class CacheEngine
         builder.append("\n");
         builder.append("\tMemory Access Count: ").append(simulator.memoryAccessCount);
         builder.append("\n");
-        builder.append("\tCache Hit Count: ").append(simulator.cacheHitCount);
+        builder.append("\tCache Hit Count and Hit Rate: ").append(simulator.cacheHitCount).append(" and ").append(((int)((simulator.cacheHitCount/(float)simulator.memoryAccessCount) * 10000))/100F).append("%");
         builder.append("\n");
-        builder.append("\tCache Miss Count: ").append(simulator.cacheMissCount);
+        builder.append("\tCache Miss Count and Miss Rate: ").append(simulator.cacheMissCount).append(" and ").append(((int)((simulator.cacheMissCount/(float)simulator.memoryAccessCount) * 10000))/100F).append("%");
         builder.append("\n");
         builder.append("\tTotal Memory Access Time: ").append(simulator.totalMemoryAccessTime);
         builder.append("\n");
@@ -118,9 +118,9 @@ public class CacheEngine
             builder.append("\n");
             builder.append("\tMemory Access Count: ").append(simulator.memoryAccessCount);
             builder.append("\n");
-            builder.append("\tCache Hit Count: ").append(simulator.cacheHitCount);
+            builder.append("\tCache Hit Count and Hit Rate: ").append(simulator.cacheHitCount).append(" and ").append(((int)((simulator.cacheHitCount/(float)simulator.memoryAccessCount) * 10000))/100F).append("%");
             builder.append("\n");
-            builder.append("\tCache Miss Count: ").append(simulator.cacheMissCount);
+            builder.append("\tCache Miss Count and Miss Rate: ").append(simulator.cacheMissCount).append(" and ").append(((int)((simulator.cacheMissCount/(float)simulator.memoryAccessCount) * 10000))/100F).append("%");
             builder.append("\n");
             builder.append("\tTotal Memory Access Time: ").append(simulator.totalMemoryAccessTime);
             builder.append("\n");
