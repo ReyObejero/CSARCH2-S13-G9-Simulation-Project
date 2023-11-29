@@ -4,6 +4,7 @@ This project is intended to simulate 8-Way Block Set Associative (BSA) Cache Map
  - 32 words per cache line
  - Load-through read policy
  - User-specified number of memory blocks
+
 The 8-Way BSA equally divides these 16 cache blocks into sets that are each 8 blocks in size, thus resulting in the 2 sets used by the system.
 
 # How to Use
